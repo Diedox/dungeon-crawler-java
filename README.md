@@ -9,7 +9,7 @@ Proyecto de consola para el curso de **Taller de Programación 2026**.
 ## Descargar el Proyecto
 
 ```bash
-git clone https://github.com/TU_USUARIO/dungeon-crawler-java.git
+git clone https://github.com/Diedox/dungeon-crawler-java.git
 cd dungeon-crawler-java
 ```
 
